@@ -1,6 +1,4 @@
-Here’s the adjusted README.md content for your Jupyter Notebook (.ipynb) setup:
-
-Internship Tasks at Encryptix
+<h2> Internship Tasks at Encryptix </h2>
 
 This folder contains internship tasks completed at Encryptix, showcasing implementations of various Artificial Intelligence (AI) algorithms and systems. The tasks are organized into separate Jupyter Notebooks for ease of execution and demonstration.
 
